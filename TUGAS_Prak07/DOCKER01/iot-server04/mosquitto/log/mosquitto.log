@@ -1,0 +1,46 @@
+1793033222: mosquitto version 2.1.2 starting
+1793033222: Config loaded from /mosquitto/config/mosquitto.conf.
+1793033222: Bridge support available.
+1793033222: Persistence support available.
+1793033222: TLS support available.
+1793033222: TLS-PSK support available.
+1793033222: Websockets support available.
+1793033222: Opening ipv4 listen socket on port 1883.
+1793033222: Opening ipv6 listen socket on port 1883.
+1793033222: Opening ipv4 listen socket on port 9001.
+1793033222: Opening ipv6 listen socket on port 9001.
+1793033222: mosquitto version 2.1.2 running
+1793033405: New connection from 172.19.0.1:41638 on port 1883.
+1793033405: New client connected from 172.19.0.1:41638 as mqtt-explorer-92bc9892 (p4, c1, k60).
+1793033541: New connection from 172.19.0.3:48978 on port 1883.
+1793033541: New client connected from 172.19.0.3:48978 as noderedd1c145eb7ae98733 (p4, c1, k60).
+1793034353: New connection from 172.19.0.1:53048 on port 1883.
+1793034353: New client connected from 172.19.0.1:53048 as ESP8266_Local_Node01 (p4, c1, k15).
+1793034408: Client ESP8266_Local_Node01 [172.19.0.1:53048] disconnected: exceeded timeout.
+1793034430: New connection from 172.19.0.1:33276 on port 1883.
+1793034430: New client connected from 172.19.0.1:33276 as ESP8266_Local_Node01 (p4, c1, k15).
+1793034944: Client noderedd1c145eb7ae98733 [172.19.0.3:48978] disconnected.
+1793034944: New connection from 172.19.0.3:51350 on port 1883.
+1793034944: New connection from 172.19.0.3:51358 on port 1883.
+1793034944: New client connected from 172.19.0.3:51350 as noderede1bdac36546f3666 (p4, c1, k60).
+1793034944: New client connected from 172.19.0.3:51358 as nodereddf93bc55dabddc8d (p4, c1, k60).
+1793035022: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1793035325: Client nodereddf93bc55dabddc8d [172.19.0.3:51358] disconnected.
+1793035325: Client noderede1bdac36546f3666 [172.19.0.3:51350] disconnected.
+1793035325: New connection from 172.19.0.3:52404 on port 1883.
+1793035325: New connection from 172.19.0.3:52408 on port 1883.
+1793035325: New client connected from 172.19.0.3:52404 as nodered3fb5348ca5c1b96d (p4, c1, k60).
+1793035325: New client connected from 172.19.0.3:52408 as nodered52ac3325d10d335c (p4, c1, k60).
+1793035396: Client nodered3fb5348ca5c1b96d [172.19.0.3:52404] disconnected.
+1793035396: Client nodered52ac3325d10d335c [172.19.0.3:52408] disconnected.
+1793035396: New connection from 172.19.0.3:41922 on port 1883.
+1793035396: New connection from 172.19.0.3:41938 on port 1883.
+1793035396: New client connected from 172.19.0.3:41922 as noderedc437d7e33b314965 (p4, c1, k60).
+1793035396: New client connected from 172.19.0.3:41938 as nodered440da94eaf32b753 (p4, c1, k60).
+1793035910: Client noderedc437d7e33b314965 [172.19.0.3:41922] disconnected.
+1793035910: Client nodered440da94eaf32b753 [172.19.0.3:41938] disconnected.
+1793035910: New connection from 172.19.0.3:43788 on port 1883.
+1793035910: New connection from 172.19.0.3:43796 on port 1883.
+1793035910: New client connected from 172.19.0.3:43788 as nodered1447f4679b575822 (p4, c1, k60).
+1793035910: New client connected from 172.19.0.3:43796 as nodered30d14a107e548783 (p4, c1, k60).
+1793036301: Client mqtt-explorer-92bc9892 [172.19.0.1:41638] disconnected.
